@@ -681,3 +681,9 @@ http://93.100.123.88:81/udp/239.239.3.51:5239
 http://93.100.123.88:81/udp/239.239.3.57:5239
 #EXTINF:-1,Tnomer
 http://93.100.123.88:81/udp/239.239.3.54:5239
+#EXTINF:-1,Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
