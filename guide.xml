@@ -4251,14 +4251,14 @@
   <programme start="20190404211500 +0300" stop="20190404213500 +0300" channel="Nickelodeon">
     <title lang="lt">Knight Squad 1, ep. 9, Do the Knight Thing</title>
   </programme>
-  <programme start="20190404213500 +0300" stop="20190404220000 +0300" channel="Nickelodeon">
-    <title lang="lt">Spužva Bob Skockani 8, ep. 20 21:35</title>
+  <programme start="20190404213500 +0300" stop="20190404213500 +0300" channel="Nickelodeon">
+    <title lang="lt">Spužva Bob Skockani 8, ep. 20</title>
   </programme>
-  <programme start="20190404220000 +0300" stop="20190404220000 +0300" channel="Nickelodeon">
-    <title lang="lt">Spužva Bob Skockani 8, ep. 21</title>
+  <programme start="20190404213500 +0300" stop="20190404220000 +0300" channel="Nickelodeon">
+    <title lang="lt">Spužva Bob Skockani 8, ep. 20</title>
   </programme>
   <programme start="20190404220000 +0300" stop="20190404222000 +0300" channel="Nickelodeon">
-    <title lang="lt">Spužva Bob Skockani 8, ep. 21</title>
+    <title lang="lt">Spužva Bob Skockani 8, ep. 21 22:00</title>
   </programme>
   <programme start="20190404222000 +0300" stop="20190404222000 +0300" channel="Nickelodeon">
     <title lang="lt">Najotkačeniji roditelji 6, ep. 12</title>
